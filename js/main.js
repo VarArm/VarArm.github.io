@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["刘雨齐", "小憨憨", "小胖齐", "妈妈的小宝贝", "爸爸的小宝贝"],
+      strings: ["刘雨齐", "小憨憨", "小胖齐", "妈妈的小宝贝", "刘刘的小乖乖"],
       typeSpeed: 100,
       loop: true,
     });
